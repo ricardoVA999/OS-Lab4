@@ -1,0 +1,2 @@
+# OS-Lab4
+Este  laboratorio  reforzará  sus  conocimientos  de  diseño e  implementación  de  sistemas operativos  con  tres  ejercicios:  creación  y  carga  de  un  módulo  propio  al kernel;  uso  de  la  herramienta SystemTap; e instalación de un bootstrap program llamado LILO. Debe entregar en Canvas un archivo de texto con sus respuestas a las preguntas planteadas y con las capturas de pantalla solicitadas.
