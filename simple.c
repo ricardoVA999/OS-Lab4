@@ -8,7 +8,7 @@ int simple_init(void) {
 	return 0;
 }
 void simple_exit(void) {
-	printk(KERN_INFO "Removing Module\nLOLITO")
+	printk(KERN_INFO "Removing Module\nLOLITO");
 }
 module_init(simple_init);
 module_exit(simple_exit);
